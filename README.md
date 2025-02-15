@@ -74,25 +74,6 @@ The dataset was stored and processed in **Delta format in Databricks**.
 
 ---
 
-## **Installation & Setup Guide**
-### **Step 1: Clone the Repository**
-```bash
- git clone https://github.com/your-username/ecommerce-analysis.git
- cd ecommerce-analysis
-```
-
-### **Step 2: Install Dependencies**
-```bash
-pip install pandas matplotlib pyspark
-```
-
-### **Step 3: Run the Analysis in Databricks**
-- Navigate to Databricks.
-- Upload the provided notebooks (`.dbc` or `.ipynb`).
-- Execute each step to process the dataset.
-
----
-
 ## **Results & Insights**
 ### **1. Customer Behavior Insights**
 ✔ Most customers prefer **Web-based transactions (92.9%)** over Mobile (7.1%).
